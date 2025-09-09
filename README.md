@@ -18,16 +18,16 @@ Les données utilisées proviennent de fichiers CSV simulant un vrai environneme
 ## 🗄 Partie SQL
 ### Étapes
 1. **Création de la base et des tables** 
-2. **Analyses basiques** → [`basic_query.sql`](sql/basic_query.sql)  
+2. **Analyses basiques** → [`basic_query.sql`]([sql/basic_query.sql](https://github.com/Housna77/Pizza-sales-analysis/blob/main/basic%20query.sql))  
    - CA total, nombre de commandes  
    - Pizza la plus chère, taille la plus vendue  
    - Top 5 pizzas par quantité  
-3. **Analyses intermédiaires** → [`intermediate_query.sql`](sql/intermediate_query.sql)  
+3. **Analyses intermédiaires** → [`intermediate_query.sql`]([sql/intermediate_query.sql](https://github.com/Housna77/Pizza-sales-analysis/blob/main/intermediate%20query.sql))  
    - Répartition des ventes par catégorie  
    - Distribution des commandes par heure  
    - Moyenne de pizzas commandées par jour  
    - Top 3 pizzas par revenus  
-4. **Analyses avancées** → [`advance_query.sql`](sql/advance_query.sql)  
+4. **Analyses avancées** → [`advance_query.sql`]([sql/advance_query.sql](https://github.com/Housna77/Pizza-sales-analysis/blob/main/advance%20query.sql))  
    - Contribution de chaque catégorie au CA  
    - Revenus cumulés dans le temps  
    - Classement des pizzas par catégorie  
